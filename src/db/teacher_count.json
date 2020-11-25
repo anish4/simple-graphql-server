@@ -1,0 +1,15 @@
+{
+	"kathmandu": {
+		"male": 23,
+		"female": 44
+	},
+	"pokhara": {
+		"male": 44,
+		"female": 33,
+		"transgender": 3
+	},
+	"biratnagar": {
+		"male": 55,
+		"queer": 43
+	}
+}
